@@ -1,4 +1,4 @@
-package ua.javarush;
+package ua.javarush.level3;
 
 import java.util.Scanner;
 

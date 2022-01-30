@@ -1,8 +1,8 @@
-package ua.javarush;
+package ua.javarush.level3;
 
 import java.util.Scanner;
 
-public class EqualsDigits {
+public class IsDigitsEquals {
 
     public static void main(String[] args) {
         int a, b, c;

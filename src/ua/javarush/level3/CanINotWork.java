@@ -1,8 +1,8 @@
-package ua.javarush;
+package ua.javarush.level3;
 
 import java.util.Scanner;
 
-public class CanINitWork {
+public class CanINotWork {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int age  = scanner.nextInt();
